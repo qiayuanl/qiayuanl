@@ -6,4 +6,4 @@ I am a robot enthusiast who can independently design, build and control a comple
 
 You might want to check my personal website at https://qiayuanliao.netlify.app/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&show_icons=true&count_private=true&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&include_all_commits=true&show_icons=true&count_private=true)
