@@ -6,6 +6,8 @@ I’m looking for a Ph.D. position in robotics. Please let me know if you are in
 
 You might want to check my personal website at https://qiayuanliao.netlify.app/
 
+![Qiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
+
 <table class="tg">
 <thead>
   <tr>
@@ -20,4 +22,3 @@ You might want to check my personal website at https://qiayuanliao.netlify.app/
 </tbody>
 </table>
 
-![Qiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
