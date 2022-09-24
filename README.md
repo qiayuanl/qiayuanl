@@ -6,15 +6,6 @@ I’m looking for a Ph.D. position in robotics. Please let me know if you are in
 
 You might want to check my personal website at https://qiayuanliao.netlify.app/
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -29,4 +20,4 @@ You might want to check my personal website at https://qiayuanliao.netlify.app/
 </tbody>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
+![Qiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
