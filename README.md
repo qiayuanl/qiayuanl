@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a robot enthusiast who can independently design, build and control a complex robot system, with experience and networking for rapidly building robot prototypes and coding debugging capabilities. I am interested in  Mechanical Design, Optimal Control, and Legged Robots and want to build extraordinary agility robots by using optimization-based methods.
+I am a robot enthusiast who can independently design, build and control a complex robot system, with experience and networking for rapidly building robot prototypes and coding debugging capabilities. I am interested in Optimal Control, Mechanical Design, and Legged Robots and want to build extraordinary agility robots by using optimization-based methods.
 
 I’m looking for a Ph.D. position in robotics. Please let me know if you are interested in my background and have some available positions!😄️
 
