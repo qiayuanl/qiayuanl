@@ -15,10 +15,6 @@ You might want to check my personal website at https://qiayuanliao.netlify.app/
     <th class="tg-0pky"> <img src="assets/bbq.jpg" alt="bbq" width=200 /> </th>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky" colspan="2"> <img src="assets/robomaster.png" alt="bbq" width=600 /> </td>
-  </tr>
-</tbody>
+
 </table>
 
