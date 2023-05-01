@@ -2,7 +2,7 @@
 
 I am a robot researcher who can independently design, build and control a complex robot system, with experience and networking for rapidly building robot prototypes and coding debugging capabilities. I am interested in Optimal Control, Mechanical Design, and Legged Robots and want to build extraordinary agility robots using optimization-based methods.
 
-**I’m looking for a Ph.D. position in robotics.** Please let me know if you are interested in my background and have a available position!😄️
+I am an incoming Ph.D. student at UC Berkeley. Now I am working as Undergraduate Researcher in SUSTech.
 
 You might want to check my personal website at https://qiayuanliao.netlify.app/
 
