@@ -2,7 +2,7 @@
 
 I am interested in control using optimization-based methods.
 
-I am an incoming Ph.D. student at UC Berkeley. Now I am working as Undergraduate Researcher in SUSTech.
+I am a first year Ph.D. student at UC Berkeley.
 
 You might want to check my personal website at https://qiayuanliao.netlify.app/
 
