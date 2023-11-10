@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am interested in control using optimization-based methods.
+I am interested in controlling and designing robots.
 
-I am a first year Ph.D. student at UC Berkeley.
+I am a first-year Ph.D. student at UC Berkeley.
 
 You might want to check my personal website at https://qiayuanliao.netlify.app/
 
-![Qiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanliao&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
+![Qiayuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiayuanl&include_all_commits=true&show_icons=true&count_private=true&hide_rank=true)
 
 <table class="tg">
 <thead>
