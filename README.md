@@ -2,7 +2,7 @@
 
 I am interested in controlling and designing robots.
 
-I am a first-year Ph.D. student at UC Berkeley.
+I am a second-year Ph.D. student at UC Berkeley.
 
 You might want to check my personal website at https://qiayuanl.netlify.app/
 
